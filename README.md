@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @syraf-zman
+- 👀 I’m interested in Computer Science (Especially data science)
+- 📫 How to reach me asyrafazman230@gmail.com
