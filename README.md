@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @syraf-zman, final year UiTM student
-- 👀 I’m interested in Computer Science (Especially data science)
+# Hi, I’m Muhammad Asyraf, final year UiTM student
+- Computer Science Undergraduate Student
 - 📫 How to reach me asyrafazman230@gmail.com
